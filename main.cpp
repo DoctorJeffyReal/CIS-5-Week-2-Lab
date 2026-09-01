@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Lab 2 — Your Name
+// Lab 2 — Jesus
 // CIS 5 Week 02 · Program structure
 
 int main() {
