@@ -4,7 +4,6 @@
 // CIS 5 Week 02 · Program structure
 
 int main() {
-  // TODO: replace TODOs with YOUR labeled lines (5–6 total)
   std::cout << "Name: Jesus\n";
   std::cout << "Interest: Movies\n";
   std::cout << "Hobby: Reading comics\n";
